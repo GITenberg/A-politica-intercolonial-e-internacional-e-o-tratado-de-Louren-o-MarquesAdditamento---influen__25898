@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31476'
     url: http://www.gutenberg.org/2009/agents/31476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25898#A-politica-intercolonial-e-internacional-e-o-tratado-de-Louren-o-MarquesAdditamento---influen_
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2008-06-25'
 gutenberg_type: Text
